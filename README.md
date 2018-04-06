@@ -1,3 +1,7 @@
 # LearnGit2
 # By Yangwh
-create a new branch & update the README.md
+<<<<<<< HEAD
+create a new branch AND update the README.md
+=======
+create a new branch and update the README.md
+>>>>>>> feature1
